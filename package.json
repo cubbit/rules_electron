@@ -1,0 +1,27 @@
+{
+  "name": "rules_electron",
+  "version": "1.0.0",
+  "description": "Electron Bazel rules",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubbit/rules_electron.git"
+  },
+  "keywords": [
+    "bazel",
+    "electron",
+    "js"
+  ],
+  "author": "Cubbit <hello@cubbit.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cubbit/rules_electron/issues"
+  },
+  "homepage": "https://github.com/cubbit/rules_electron#readme"
+}
