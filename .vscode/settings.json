@@ -27,5 +27,6 @@
         "*.bazelrc": "bazel",
     },
     "bazel.buildifierFixOnFormat": true,
-    "workbench.colorCustomizations": {}
+    "workbench.colorCustomizations": {},
+    "editor.formatOnSave": true
 }
